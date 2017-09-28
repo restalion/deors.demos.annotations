@@ -111,7 +111,6 @@ public class BeanInfoProcessor
      *
      * @throws IOException an I/O error while writing the file contents
      */
-    
     private void writeTypeStart(BufferedWriter bw, TypeElement classElement,
                                 PackageElement packageElement) throws IOException {
 
